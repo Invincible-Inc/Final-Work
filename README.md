@@ -1,3 +1,10 @@
+
+-	Team work. Build a website that realize a Kanban application and deploy it to a cloud server. 
+-	My contribution (Wang Mingye's contribution): As the group leader, arrange the work in each iteration and assign tasks to team members reasonably. Besides, I was responsible for developing backend API of the site and deploying the project.
+
+
+
+
 # Final-Work
 > 一款项目管理软件：Ultimate Project – The Ultimate Tool for PM
 
